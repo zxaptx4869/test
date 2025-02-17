@@ -100,6 +100,15 @@
   font-size:14px;
   text-align:left;
 }
+.ellipse {
+}
+.heading_2 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
 ._图片_ {
 }
 ._表单标题 {
