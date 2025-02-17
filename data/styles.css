@@ -144,4 +144,13 @@
   color:rgba(0, 0, 0, 0.847058823529412);
   text-align:left;
 }
+._弹窗标题 {
+  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC', sans-serif;
+  font-weight:500;
+  font-style:normal;
+  font-size:16px;
+  color:rgba(0, 0, 0, 0.847058823529412);
+  text-align:left;
+  line-height:22px;
+}
 textarea, select, input, button { outline: none; }
