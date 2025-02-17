@@ -59,6 +59,16 @@
 }
 ._表单禁用 {
 }
+._文本段落 {
+  text-align:left;
+}
+._二级标题 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
 ._三级标题 {
   font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
